@@ -13,5 +13,5 @@
 
 ### konominselah
 - [BitBucket(NonchannSixthApp)](https://bitbucket.org)
-- [atlassian](https://my-atlassian-site-805026.atlassian.net/jira/software/projects/NON/boards/1)
+- [Jira](https://my-atlassian-site-805026.atlassian.net/jira/software/projects/NON/boards/1)
 - [firebase(NonchannSixthApp)](https://console.firebase.google.com/)
